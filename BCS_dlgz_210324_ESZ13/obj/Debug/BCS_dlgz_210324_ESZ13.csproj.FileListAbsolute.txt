@@ -1,0 +1,7 @@
+C:\Users\simon\source\repos\BCS_dlgz_210324_ESZ13\BCS_dlgz_210324_ESZ13\bin\Debug\BCS_dlgz_210324_ESZ13.exe.config
+C:\Users\simon\source\repos\BCS_dlgz_210324_ESZ13\BCS_dlgz_210324_ESZ13\bin\Debug\BCS_dlgz_210324_ESZ13.exe
+C:\Users\simon\source\repos\BCS_dlgz_210324_ESZ13\BCS_dlgz_210324_ESZ13\bin\Debug\BCS_dlgz_210324_ESZ13.pdb
+C:\Users\simon\source\repos\BCS_dlgz_210324_ESZ13\BCS_dlgz_210324_ESZ13\obj\Debug\BCS_dlgz_210324_ESZ13.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\BCS_dlgz_210324_ESZ13\BCS_dlgz_210324_ESZ13\obj\Debug\BCS_dlgz_210324_ESZ13.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\BCS_dlgz_210324_ESZ13\BCS_dlgz_210324_ESZ13\obj\Debug\BCS_dlgz_210324_ESZ13.exe
+C:\Users\simon\source\repos\BCS_dlgz_210324_ESZ13\BCS_dlgz_210324_ESZ13\obj\Debug\BCS_dlgz_210324_ESZ13.pdb
